@@ -7,3 +7,7 @@ LIMITS
 ICT4S
 ACM Responsible Computing
 
+https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM
+https://github.com/sec-deadlines/sec-deadlines.github.io >> https://sec-deadlines.github.io/
+
+
