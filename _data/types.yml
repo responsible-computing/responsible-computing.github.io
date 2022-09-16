@@ -1,0 +1,14 @@
+---
+- name: Responsible Computing
+  tag: RESP
+- name: Sustainable ICT
+  tag: SICT
+- name: ICT for Sustainability
+  tag: ICTS
+- name: Conference
+  tag: CONF
+- name: Workshop
+  tag: SHOP
+- name: Journal
+  tag: JOUN
+ 

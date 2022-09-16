@@ -1,0 +1,37 @@
+---
+# Workshops and Conferences
+ 
+- name: LIMITS
+  year: 2023
+  date: "June 21 – 23"
+  description: Workshop on Computing within Limits
+  link: https://computingwithinlimits.org/
+  deadline:
+    - "2023-02-01 23:59"
+  place: 
+  tags: [RESP, SICT, ICTS, SHOP]
+
+- name: ICICTES
+  year: 2023
+  date: "April 17 – 18"
+  description: International Conference on ICT for Environment and Sustainability
+  link: https://waset.org/ict-for-environment-and-sustainability-conference-in-april-2023-in-boston
+  deadline:
+    - "2022-09-19 23:59"
+  place: 
+  tags: [RESP, SICT, ICTS, CONF]
+
+- name: ICT4S
+  year: 2023
+  date: "June 05 – 09"
+  description: International Conference on ICT for Sustainability
+  link: https://conf.researchr.org/home/ict4s-2023
+  deadline:
+    - "2023-02-10 23:59"
+  place: 
+  tags: [RESP, SICT, ICTS, CONF]
+
+
+
+# Journals and Special Issues
+
