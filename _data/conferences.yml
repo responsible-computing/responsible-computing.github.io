@@ -31,6 +31,16 @@
   place: UC San Diego, USA
   tags: [HARD, SOFT, SHOP]
 
+- name: IFIP HCC
+  year: 2022
+  date: "September 7 – 9"
+  description: Human Choice and Computers Conference
+  link: http://ifiptc9.org/hcc/
+  deadline:
+    - "2022-01-31 23:59"
+  place: Tokyo, Japan
+  tags: [ETPO, CONF]
+
 - name: ICICTES
   year: 2023
   date: "April 17 – 18"
