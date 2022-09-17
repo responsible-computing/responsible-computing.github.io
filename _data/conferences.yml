@@ -61,6 +61,17 @@
   place: Rennes, France
   tags: [HARD, SOFT, ETPO, CONF]
 
+- name: SustainableAI
+  year: 2023
+  date: "May 30 – June 01"
+  description: Sustainable AI Conference
+  link: https://sustainable-ai-conference.eu/
+  deadline:
+    - "2023-01-16 23:59"
+  place: Bonns, Germany
+  tags: [SOFT, ETPO, CONF]
+
+
 
 # Journals and Special Issues
 
