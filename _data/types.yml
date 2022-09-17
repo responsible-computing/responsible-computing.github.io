@@ -1,14 +1,18 @@
 ---
 - name: Responsible Computing
   tag: RESP
-- name: Sustainable ICT
-  tag: SICT
-- name: ICT for Sustainability
-  tag: ICTS
+- name: Sustainability
+  tag: SUST
+- name: Hardware & Electronics
+  tag: HARD
+- name: Software
+  tag: SOFT
+- name: Ethics & Policy
+  tag: ETPO
 - name: Conference
   tag: CONF
 - name: Workshop
   tag: SHOP
 - name: Journal
-  tag: JOUN
+  tag: JOUR
  
