@@ -1,8 +1,4 @@
 ---
-- name: Responsible Computing
-  tag: RESP
-- name: Sustainability
-  tag: SUST
 - name: Hardware & Electronics
   tag: HARD
 - name: Software
