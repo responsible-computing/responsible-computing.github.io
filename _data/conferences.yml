@@ -55,8 +55,8 @@
 # Journals and Special Issues
 
 - name: ACM JRC
-  year: Journal
-  date: 
+  year: 2023
+  date: 2023
   description: ACM Journal on Responsible Computing
   link: https://dl.acm.org/journal/jrc
   deadline:
