@@ -21,6 +21,16 @@
   place: Online
   tags: [HARD, SOFT, ETPO, SHOP]
 
+- name: HotCarbon
+  year: 2022
+  date: "July 10"
+  description: Workshop on Sustainable Computer Systems Design and Implementation
+  link: https://hotcarbon.org/
+  deadline:
+    - "2022-05-18 23:59"
+  place: UC San Diego, USA
+  tags: [HARD, SOFT, SHOP]
+
 - name: ICICTES
   year: 2023
   date: "April 17 – 18"
@@ -42,6 +52,17 @@
   tags: [HARD, SOFT, ETPO, CONF]
 
 
-
 # Journals and Special Issues
+
+- name: ACM JRC
+  year: Journal
+  date: 
+  description: ACM Journal on Responsible Computing
+  link: https://dl.acm.org/journal/jrc
+  deadline:
+    - "2023-12-31 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, JOUR]
+
+
 
