@@ -1,5 +1,15 @@
 ---
 # Workshops and Conferences
+
+- name: SusSec
+  year: 2022
+  date: "March 18"
+  description: Workshop on Sustainability in Security, Security for Sustainability
+  link: http://sussec22.alari.ch/
+  deadline:
+    - "2022-01-31 23:59"
+  place: Online
+  tags: [RESP, SUST, SHOP]
  
 - name: LIMITS
   year: 2022
