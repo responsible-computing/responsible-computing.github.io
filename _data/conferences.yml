@@ -1,76 +1,6 @@
 ---
 # Workshops and Conferences
 
-- name: CHI
-  year: 2022
-  date: "April 30 – May 05"
-  description: Conference on Human Factors in Computing Systems
-  link: https://chi2022.acm.org/
-  deadline:
-    - "2021-09-09 23:59"
-  place: New Orleans, USA
-  tags: [ETPO, HUCO, CONF]
-
-- name: SusSec
-  year: 2022
-  date: "March 18"
-  description: Workshop on Sustainability in Security, Security for Sustainability
-  link: http://sussec22.alari.ch/
-  deadline:
-    - "2022-01-31 23:59"
-  place: Online
-  tags: [HARD, SOFT, SHOP]
- 
-- name: IFIP HCC
-  year: 2022
-  date: "September 7 – 9"
-  description: Human Choice and Computers Conference
-  link: http://ifiptc9.org/hcc/
-  deadline:
-    - "2022-01-31 23:59"
-  place: Tokyo, Japan
-  tags: [ETPO, CONF]
-
-- name: ISDRS
-  year: 2022
-  date: "June 15 – 17"
-  description: Sustainable Development and Courage&#58; Culture, Art and Human Rights
-  link: https://2022.isdrsconferences.org/
-  deadline:
-    - "2021-02-20 23:59"
-  place: Stockholm, Sweden
-  tags: [ETPO, HUCO, CONF]
-
-- name: LIMITS
-  year: 2022
-  date: "June 21 – 22"
-  description: Workshop on Computing within Limits
-  link: https://computingwithinlimits.org/
-  deadline:
-    - "2022-04-01 23:59"
-  place: Online
-  tags: [HARD, SOFT, ETPO, SHOP]
-
-- name: HotCarbon
-  year: 2022
-  date: "July 10"
-  description: Workshop on Sustainable Computer Systems Design and Implementation
-  link: https://hotcarbon.org/
-  deadline:
-    - "2022-05-18 23:59"
-  place: UC San Diego, USA
-  tags: [HARD, SOFT, SHOP]
-
-- name: CHI
-  year: 2023
-  date: "April 23 – 28"
-  description: Conference on Human Factors in Computing Systems
-  link: https://chi2023.acm.org/
-  deadline:
-    - "2022-09-15 23:59"
-  place: Hamburg, Germany
-  tags: [ETPO, HUCO, CONF]
-
 - name: ICICTES
   year: 2023
   date: "April 17 – 18"
@@ -100,6 +30,76 @@
     - "2023-01-16 23:59"
   place: Bonn, Germany
   tags: [SOFT, ETPO, CONF]
+
+- name: CHI
+  year: 2023
+  date: "April 23 – 28"
+  description: Conference on Human Factors in Computing Systems
+  link: https://chi2023.acm.org/
+  deadline:
+    - "2022-09-15 23:59"
+  place: Hamburg, Germany
+  tags: [ETPO, HUCO, CONF]
+
+- name: HotCarbon
+  year: 2022
+  date: "July 10"
+  description: Workshop on Sustainable Computer Systems Design and Implementation
+  link: https://hotcarbon.org/
+  deadline:
+    - "2022-05-18 23:59"
+  place: UC San Diego, USA
+  tags: [HARD, SOFT, SHOP]
+
+- name: LIMITS
+  year: 2022
+  date: "June 21 – 22"
+  description: Workshop on Computing within Limits
+  link: https://computingwithinlimits.org/
+  deadline:
+    - "2022-04-01 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, SHOP]
+
+- name: HCC
+  year: 2022
+  date: "September 7 – 9"
+  description: Human Choice and Computers Conference
+  link: http://ifiptc9.org/hcc/
+  deadline:
+    - "2022-01-31 23:59"
+  place: Tokyo, Japan
+  tags: [ETPO, CONF]
+
+- name: SusSec
+  year: 2022
+  date: "March 18"
+  description: Workshop on Sustainability in Security, Security for Sustainability
+  link: http://sussec22.alari.ch/
+  deadline:
+    - "2022-01-31 23:59"
+  place: Online
+  tags: [HARD, SOFT, SHOP]
+ 
+- name: CHI
+  year: 2022
+  date: "April 30 – May 05"
+  description: Conference on Human Factors in Computing Systems
+  link: https://chi2022.acm.org/
+  deadline:
+    - "2021-09-09 23:59"
+  place: New Orleans, USA
+  tags: [ETPO, HUCO, CONF]
+
+- name: ISDRS
+  year: 2022
+  date: "June 15 – 17"
+  description: Sustainable Development and Courage&#58; Culture, Art and Human Rights
+  link: https://2022.isdrsconferences.org/
+  deadline:
+    - "2021-02-20 23:59"
+  place: Stockholm, Sweden
+  tags: [ETPO, HUCO, CONF]
 
 
 
