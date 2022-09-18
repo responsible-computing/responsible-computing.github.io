@@ -1,6 +1,16 @@
 ---
 # Workshops and Conferences
 
+- name: CHI
+  year: 2023
+  date: "April 23 – 28"
+  description: Conference on Human Factors in Computing Systems
+  link: https://chi2023.acm.org/
+  deadline:
+    - "2022-09-15 23:59"
+  place: Hamburg, Germany
+  tags: [ETPO, HUCO, CONF]
+
 - name: SusSec
   year: 2022
   date: "March 18"
@@ -70,6 +80,26 @@
     - "2023-01-16 23:59"
   place: Bonn, Germany
   tags: [SOFT, ETPO, CONF]
+
+- name: CHI
+  year: 2022
+  date: "April 30 – May 05"
+  description: Conference on Human Factors in Computing Systems
+  link: https://chi2022.acm.org/
+  deadline:
+    - "2021-09-09 23:59"
+  place: New Orleans, USA
+  tags: [ETPO, HUCO, CONF]
+
+- name: ISDRS
+  year: 2022
+  date: "June 15 – 17"
+  description: Sustainable Development and Courage: Culture, Art and Human Rights
+  link: https://2022.isdrsconferences.org/
+  deadline:
+    - "2021-02-20 23:59"
+  place: Stockholm, Sweden
+  tags: [ETPO, HUCO, CONF]
 
 
 

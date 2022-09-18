@@ -5,6 +5,8 @@
   tag: SOFT
 - name: Ethics & Policy
   tag: ETPO
+- name: Human Factors
+  tag: HUCO
 - name: Conference
   tag: CONF
 - name: Workshop
