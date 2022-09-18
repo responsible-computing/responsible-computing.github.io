@@ -3,10 +3,10 @@
   tag: HARD
 - name: Software
   tag: SOFT
-- name: Ethics & Policy
-  tag: ETPO
 - name: Human Factors
   tag: HUCO
+- name: Ethics & Policy
+  tag: ETPO
 - name: Conference
   tag: CONF
 - name: Workshop

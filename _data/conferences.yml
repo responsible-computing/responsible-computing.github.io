@@ -2,13 +2,13 @@
 # Workshops and Conferences
 
 - name: CHI
-  year: 2023
-  date: "April 23 – 28"
+  year: 2022
+  date: "April 30 – May 05"
   description: Conference on Human Factors in Computing Systems
-  link: https://chi2023.acm.org/
+  link: https://chi2022.acm.org/
   deadline:
-    - "2022-09-15 23:59"
-  place: Hamburg, Germany
+    - "2021-09-09 23:59"
+  place: New Orleans, USA
   tags: [ETPO, HUCO, CONF]
 
 - name: SusSec
@@ -21,6 +21,26 @@
   place: Online
   tags: [HARD, SOFT, SHOP]
  
+- name: IFIP HCC
+  year: 2022
+  date: "September 7 – 9"
+  description: Human Choice and Computers Conference
+  link: http://ifiptc9.org/hcc/
+  deadline:
+    - "2022-01-31 23:59"
+  place: Tokyo, Japan
+  tags: [ETPO, CONF]
+
+- name: ISDRS
+  year: 2022
+  date: "June 15 – 17"
+  description: Sustainable Development and Courage&#58; Culture, Art and Human Rights
+  link: https://2022.isdrsconferences.org/
+  deadline:
+    - "2021-02-20 23:59"
+  place: Stockholm, Sweden
+  tags: [ETPO, HUCO, CONF]
+
 - name: LIMITS
   year: 2022
   date: "June 21 – 22"
@@ -41,15 +61,15 @@
   place: UC San Diego, USA
   tags: [HARD, SOFT, SHOP]
 
-- name: IFIP HCC
-  year: 2022
-  date: "September 7 – 9"
-  description: Human Choice and Computers Conference
-  link: http://ifiptc9.org/hcc/
+- name: CHI
+  year: 2023
+  date: "April 23 – 28"
+  description: Conference on Human Factors in Computing Systems
+  link: https://chi2023.acm.org/
   deadline:
-    - "2022-01-31 23:59"
-  place: Tokyo, Japan
-  tags: [ETPO, CONF]
+    - "2022-09-15 23:59"
+  place: Hamburg, Germany
+  tags: [ETPO, HUCO, CONF]
 
 - name: ICICTES
   year: 2023
@@ -80,26 +100,6 @@
     - "2023-01-16 23:59"
   place: Bonn, Germany
   tags: [SOFT, ETPO, CONF]
-
-- name: CHI
-  year: 2022
-  date: "April 30 – May 05"
-  description: Conference on Human Factors in Computing Systems
-  link: https://chi2022.acm.org/
-  deadline:
-    - "2021-09-09 23:59"
-  place: New Orleans, USA
-  tags: [ETPO, HUCO, CONF]
-
-- name: ISDRS
-  year: 2022
-  date: "June 15 – 17"
-  description: Sustainable Development and Courage&#58; Culture, Art and Human Rights
-  link: https://2022.isdrsconferences.org/
-  deadline:
-    - "2021-02-20 23:59"
-  place: Stockholm, Sweden
-  tags: [ETPO, HUCO, CONF]
 
 
 
