@@ -41,6 +41,16 @@
   place: Hamburg, Germany
   tags: [ETPO, HUCO, CONF]
 
+- name: DICG
+  year: 2022
+  date: "November 07 – 11"
+  description: International Workshop on Distributed Infrastructure for Common Good
+  link: https://dicg-workshop.github.io/
+  deadline:
+    - "2022-08-31 23:59"
+  place: Québec City, Canada
+  tags: [SOFT, ETPO, HUCO, SHOP]
+
 - name: HotCarbon
   year: 2022
   date: "July 10"
