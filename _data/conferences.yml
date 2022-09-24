@@ -21,6 +21,15 @@
   place: Bonn, Germany
   tags: [SOFT, ETPO, CONF]
 
+- name: Black in AI
+  year: 2022
+  date: "December 02 – 03"
+  description: "Black in AI Workshop"
+  deadline:
+    - "2022-10-03 23:59"
+  place: New Orleans, USA / Online
+  tags: [SOFT, HUCO, ETPO, SHOP]
+
 - name: ICICTES
   year: 2023
   date: "April 17 – 18"
@@ -124,6 +133,4 @@
     - "2023-12-31 23:59"
   place: Online
   tags: [HARD, SOFT, ETPO, JOUR]
-
-
 
