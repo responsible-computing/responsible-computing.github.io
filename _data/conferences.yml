@@ -25,6 +25,7 @@
   year: 2022
   date: "November 11"
   description: "CSCW Workshop on Solidarity and Disruption: Collective Organizing In Computing Workshop II"
+  link: https://collectiveorganizingcscw22.wordpress.com/
   deadline:
     - "2022-10-07 23:59"
   place: Online
@@ -34,6 +35,7 @@
   year: 2022
   date: "December 02 – 03"
   description: "Black in AI Workshop"
+  link: https://blackinai.github.io
   deadline:
     - "2022-10-03 23:59"
   place: New Orleans, USA / Online
