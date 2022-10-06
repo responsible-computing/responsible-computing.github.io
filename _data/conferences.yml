@@ -21,6 +21,15 @@
   place: Bonn, Germany
   tags: [SOFT, ETPO, CONF]
 
+- name: Solidarity and Disruption
+  year: 2022
+  date: "November 11"
+  description: "Solidarity and Disruption: Collective Organizing In Computing Workshop II"
+  deadline:
+    - "2022-10-07 23:59"
+  place: Online
+  tags: [HUCO, ETPO, SHOP]
+
 - name: Black in AI
   year: 2022
   date: "December 02 – 03"
