@@ -27,9 +27,19 @@
   description: "CSCW Workshop on Solidarity and Disruption: Collective Organizing In Computing Workshop II"
   link: https://collectiveorganizingcscw22.wordpress.com/
   deadline:
-    - "2022-10-07 23:59"
+    - "2022-10-21 23:59"
   place: Online
   tags: [HUCO, ETPO, SHOP]
+
+- name: OpenNext
+  year: 2022
+  date: "October 21"
+  description: "Workshop on Open-Design and Open-Source Hardware Development"
+  link: https://open-design2.sciencesconf.org/
+  deadline:
+    - "2022-10-07 23:59"
+  place: Grenoble, France
+  tags: [HARD, SOFT, ETPO, SHOP]
 
 - name: Black in AI
   year: 2022
