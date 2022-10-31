@@ -31,6 +31,16 @@
   place: Online
   tags: [HUCO, ETPO, SHOP]
 
+- name: AoIR
+  year: 2022
+  date: "November 02 – 05"
+  description: "The 23rd annual meeting of the Association of Internet Researchers: Decolonising the Internet"
+  link: Decolonising the Internet 
+  deadline:
+    - "2022-08-01 23:59"
+  place: Dublin, Ireland
+  tags: [HUCO, ETPO, SHOP]
+
 - name: OpenNext
   year: 2022
   date: "October 21"
