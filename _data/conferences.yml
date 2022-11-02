@@ -4,7 +4,7 @@
 - name: ICT4S
   year: 2023
   date: "June 05 – 09"
-  description: International Conference on ICT for Sustainability
+  description: "International Conference on ICT for Sustainability"
   link: https://conf.researchr.org/home/ict4s-2023
   deadline:
     - "2023-02-10 23:59"
@@ -14,7 +14,7 @@
 - name: SustainableAI
   year: 2023
   date: "May 30 – June 01"
-  description: Sustainable AI Conference
+  description: "Sustainable AI Conference"
   link: https://sustainable-ai-conference.eu/
   deadline:
     - "2023-01-16 23:59"
@@ -35,7 +35,7 @@
   year: 2022
   date: "November 02 – 05"
   description: "The 23rd annual meeting of the Association of Internet Researchers: Decolonising the Internet"
-  link: Decolonising the Internet 
+  link: https://aoir.org/aoir2022/
   deadline:
     - "2022-08-01 23:59"
   place: Dublin, Ireland
@@ -64,7 +64,7 @@
 - name: ICICTES
   year: 2023
   date: "April 17 – 18"
-  description: International Conference on ICT for Environment and Sustainability
+  description: "International Conference on ICT for Environment and Sustainability"
   link: https://waset.org/ict-for-environment-and-sustainability-conference-in-april-2023-in-boston
   deadline:
     - "2022-09-29 23:59"
@@ -74,7 +74,7 @@
 - name: CHI
   year: 2023
   date: "April 23 – 28"
-  description: ACM Conference on Human Factors in Computing Systems
+  description: "ACM Conference on Human Factors in Computing Systems"
   link: https://chi2023.acm.org/
   deadline:
     - "2022-09-15 23:59"
@@ -84,7 +84,7 @@
 - name: DICG
   year: 2022
   date: "November 07 – 11"
-  description: International Workshop on Distributed Infrastructure for Common Good
+  description: "International Workshop on Distributed Infrastructure for Common Good"
   link: https://dicg-workshop.github.io/
   deadline:
     - "2022-08-31 23:59"
@@ -94,7 +94,7 @@
 - name: HotCarbon
   year: 2022
   date: "July 10"
-  description: Workshop on Sustainable Computer Systems Design and Implementation
+  description: "Workshop on Sustainable Computer Systems Design and Implementation"
   link: https://hotcarbon.org/
   deadline:
     - "2022-05-18 23:59"
@@ -104,7 +104,7 @@
 - name: LIMITS
   year: 2022
   date: "June 21 – 22"
-  description: Workshop on Computing within Limits
+  description: "Workshop on Computing within Limits"
   link: https://computingwithinlimits.org/
   deadline:
     - "2022-04-01 23:59"
@@ -114,7 +114,7 @@
 - name: HCC
   year: 2022
   date: "September 7 – 9"
-  description: IFIP Human Choice and Computers Conference
+  description: "IFIP Human Choice and Computers Conference"
   link: http://ifiptc9.org/hcc/
   deadline:
     - "2022-01-31 23:59"
@@ -124,7 +124,7 @@
 - name: SusSec
   year: 2022
   date: "March 18"
-  description: Workshop on Sustainability in Security, Security for Sustainability
+  description: "Workshop on Sustainability in Security, Security for Sustainability"
   link: http://sussec22.alari.ch/
   deadline:
     - "2022-01-31 23:59"
@@ -134,7 +134,7 @@
 - name: CHI
   year: 2022
   date: "April 30 – May 05"
-  description: ACM Conference on Human Factors in Computing Systems
+  description: "ACM Conference on Human Factors in Computing Systems"
   link: https://chi2022.acm.org/
   deadline:
     - "2021-09-09 23:59"
@@ -144,7 +144,7 @@
 - name: ISDRS
   year: 2022
   date: "June 15 – 17"
-  description: Sustainable Development and Courage&#58; Culture, Art and Human Rights
+  description: "Sustainable Development and Courage&#58; Culture, Art and Human Rights"
   link: https://2022.isdrsconferences.org/
   deadline:
     - "2021-02-20 23:59"
@@ -158,7 +158,7 @@
 - name: JRC
   year: 2023
   date: 2023
-  description: ACM Journal on Responsible Computing
+  description: "ACM Journal on Responsible Computing"
   link: https://dl.acm.org/journal/jrc
   deadline:
     - "2023-12-31 23:59"
