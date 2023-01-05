@@ -15,14 +15,15 @@ Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
 Example record:
 
 ```
-- name: Euro S&P
-  description: IEEE European Symposium on Security and Privacy
-  year: 2018
-  link: http://www.ieee-security.org/TC/EuroSP2018/
-  deadline: "2017-08-15 23:59"
-  date: April 24-26
-  place: London, UK
-  tags: [SEC, PRIV]
+- name: LIMITS
+  year: 2022
+  date: "June 21 – 22"
+  description: "Workshop on Computing within Limits"
+  link: https://computingwithinlimits.org/
+  deadline:
+    - "2022-04-01 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, SHOP]
 ```
 
 Descriptions of the fields:
@@ -37,9 +38,19 @@ Descriptions of the fields:
 | `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
 | `date`        | When the conference is happening                            |
 | `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `SEC`, `PRIV`, or `CRYPTO`            |
+| `tags`        | One or multiple tags: See below.                            |
 
 Fields marked with asterisk (\*) are required.
+
+Tags:
+
+- Hardware & Electronics: HARD
+- Software: SOFT
+- Human Factors: HUCO
+- Ethics & Policy: ETPO
+- Conference: CONF
+- Workshop: SHOP
+- Journal: JOUR
 
 
 ### Deadline format
