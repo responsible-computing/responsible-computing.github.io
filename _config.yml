@@ -1,14 +1,16 @@
 title: Responsible Computing & Sustainable ICT submission deadlines countdown
-description: Countdowns to Responsible Computing & Sustainable ICT submission deadlines. Accepting conferences, workshops and journal deadlines with a focus on responsible use, development, and production of ICT, decoloniality, and sustainability aspects of hardware and software, ethics, and policy.
+description: Countdowns to Responsible Computing & Sustainable ICT submission deadlines. Accepting conferences, workshops and journal deadlines with a focus on responsible use, development, and production of ICT, decoloniality, and sustainability aspects of hardware and software, ethics, and policy. Only venues with an open call for submissions (papers or presentations) can be advertised here.
 author: Jan Tobias Muehlberg
 
-domain: " responsible-computing .github.io"
+domain: "responsible-computing.github.io"
 baseurl: ""
 
 twitter_username: jtmuehlberg
 github_username: responsible-computing
 github_repo: responsible-computing 
 ga_id:
+
+twitter_hashtag: "#ResponsibleComputing"
 
 markdown: kramdown
 
