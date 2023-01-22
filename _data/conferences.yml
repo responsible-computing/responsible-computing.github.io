@@ -1,6 +1,16 @@
 ---
 # Workshops and Conferences
 
+- name: LIMITS
+  year: 2023
+  date: "June 14 – 15"
+  description: "Workshop on Computing within Limits"
+  link: https://computingwithinlimits.org/
+  deadline:
+    - "2023-03-31 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, SHOP]
+
 - name: ICT4S Posters and Demos
   year: 2023
   date: "June 05 – 09"
