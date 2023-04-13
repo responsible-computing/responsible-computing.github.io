@@ -51,6 +51,16 @@
   place: Bonn, Germany
   tags: [SOFT, ETPO, CONF]
 
+- name: Eco-ES
+  year: 2023
+  date: "April 17"
+  description: "Workshop on Eco-design and circular economy of Electronic Systems"
+  link: https://date23.date-conference.com/workshop/w01
+  deadline:
+    - "2023-01-01 23:59"
+  place: Antwerp, Belgium
+  tags: [HARD, SOFT, SHOP]
+ 
 - name: Solidarity and Disruption
   year: 2022
   date: "November 11"
@@ -121,6 +131,16 @@
   place: Québec City, Canada / Online
   tags: [SOFT, ETPO, HUCO, SHOP]
 
+- name: SUSHI
+  year: 2022
+  date: "November 4"
+  description: "Workshop on Sustainable Hardware Security"
+  link: https://hardwaresec.42sec.de/
+  deadline:
+    - "2022-01-01 23:59"
+  place: San Diego, USA
+  tags: [HARD, SHOP]
+ 
 - name: HotCarbon
   year: 2022
   date: "July 10"
