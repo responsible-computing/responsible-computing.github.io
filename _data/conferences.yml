@@ -1,6 +1,16 @@
 ---
 # Workshops and Conferences
 
+- name: HotCarbon
+  year: 2023
+  date: "July 09"
+  description: "Workshop on Sustainable Computer Systems"
+  link: https://hotcarbon.org/
+  deadline:
+    - "2023-05-08 23:59"
+  place: Boston, USA / Online
+  tags: [HARD, SOFT, SHOP]
+
 - name: LIMITS
   year: 2023
   date: "June 14 – 15"
