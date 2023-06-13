@@ -111,14 +111,17 @@
   place: New Orleans, USA / Online
   tags: [SOFT, HUCO, ETPO, SHOP]
 
+https://waset.org/information-and-communication-technology-for-environment-and-sustainability-conference-in-august-2024-in-london
+
+
 - name: ICICTES
   year: 2023
-  date: "April 17 – 18"
+  date: "August 19 - 20"
   description: "International Conference on ICT for Environment and Sustainability"
-  link: https://waset.org/ict-for-environment-and-sustainability-conference-in-april-2023-in-boston
-  deadline:
-    - "2022-09-29 23:59"
-  place: Boston, USA
+  link: https://waset.org/information-and-communication-technology-for-environment-and-sustainability-conference-in-august-2024-in-london
+  deadline: July 31
+    - "2023-07-31 23:59"
+  place: London, United Kingdom
   tags: [HARD, SOFT, ETPO, CONF]
 
 - name: CHI
