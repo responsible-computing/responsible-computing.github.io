@@ -3,15 +3,15 @@
 
 ## 2024
 
-- name: ICT4S
+- name: AoIR
   year: 2024
-  date: "June 24 – 28"
-  description: "International Conference on ICT for Sustainability"
-  link: https://conf.researchr.org/home/ict4s-2024
+  date: "October 30 – November 02"
+  description: "The 25th annual meeting of the Association of Internet Researchers: Decolonising the Internet"
+  link: https://aoir.org/aoir2024/
   deadline:
-    - "2024-01-26 23:59"
-  place: Stockholm, Sweden
-  tags: [HARD, SOFT, ETPO, CONF]
+    - "2024-03-31 23:59"
+  place: Sheffield, UK
+  tags: [HUCO, ETPO, SHOP]
 
 - name: ICT4S Posters and Demos
   year: 2024
@@ -23,9 +23,29 @@
   place: Stockholm, Sweden
   tags: [HARD, SOFT, ETPO, CONF]
 
+- name: ICT4S
+  year: 2024
+  date: "June 24 – 28"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2024
+  deadline:
+    - "2024-01-26 23:59"
+  place: Stockholm, Sweden
+  tags: [HARD, SOFT, ETPO, CONF]
+
 
 
 ## 2023 and earlier
+
+- name: AoIR
+  year: 2023
+  date: "October 18 – 21"
+  description: "The 24th annual meeting of the Association of Internet Researchers: Decolonising the Internet"
+  link: https://aoir.org/aoir2023/
+  deadline:
+    - "2023-08-01 23:59"
+  place: Philadelphia, Pennsylvania, USA
+  tags: [HUCO, ETPO, SHOP]
 
 - name: HotCarbon
   year: 2023
