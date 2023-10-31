@@ -1,6 +1,32 @@
 ---
 # Workshops and Conferences
 
+## 2024
+
+- name: ICT4S
+  year: 2024
+  date: "June 24 – 28"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2024
+  deadline:
+    - "2024-01-26 23:59"
+  place: Stockholm, Sweden
+  tags: [HARD, SOFT, ETPO, CONF]
+
+- name: ICT4S Posters and Demos
+  year: 2024
+  date: "June 24 – 28"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2024
+  deadline:
+    - "2024-04-16 23:59"
+  place: Stockholm, Sweden
+  tags: [HARD, SOFT, ETPO, CONF]
+
+
+
+## 2023 and earlier
+
 - name: HotCarbon
   year: 2023
   date: "July 09"
@@ -215,13 +241,23 @@
 
 # Journals and Special Issues
 
+- name: JCSS
+  year: 2024
+  date: 2024
+  description: "ACM Journal on Computing and Sustainable Societies"
+  link: https://dl.acm.org/journal/acmjcss
+  deadline:
+    - "2024-12-31 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, JOUR]
+
 - name: JRC
-  year: 2023
-  date: 2023
+  year: 2024
+  date: 2024
   description: "ACM Journal on Responsible Computing"
   link: https://dl.acm.org/journal/jrc
   deadline:
-    - "2023-12-31 23:59"
+    - "2024-12-31 23:59"
   place: Online
   tags: [HARD, SOFT, ETPO, JOUR]
 
