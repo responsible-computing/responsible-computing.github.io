@@ -3,6 +3,16 @@
 
 ## 2024
 
+- name: ICT4S Posters and Demos
+  year: 2024
+  date: "June 24 – 28"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2024
+  deadline:
+    - "2024-04-16 23:59"
+  place: Stockholm, Sweden
+  tags: [HARD, SOFT, ETPO, CONF]
+
 - name: AoIR
   year: 2024
   date: "October 30 – November 02"
@@ -13,15 +23,15 @@
   place: Sheffield, UK
   tags: [HUCO, ETPO, SHOP]
 
-- name: ICT4S Posters and Demos
+- name: LIMITS
   year: 2024
-  date: "June 24 – 28"
-  description: "International Conference on ICT for Sustainability"
-  link: https://conf.researchr.org/home/ict4s-2024
+  date: "June 18 – 19"
+  description: "Workshop on Computing within Limits"
+  link: https://computingwithinlimits.org/
   deadline:
-    - "2024-04-16 23:59"
-  place: Stockholm, Sweden
-  tags: [HARD, SOFT, ETPO, CONF]
+    - "2024-03-15 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, SHOP]
 
 - name: ICT4S
   year: 2024
