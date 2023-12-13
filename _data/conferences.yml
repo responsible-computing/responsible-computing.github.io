@@ -33,6 +33,16 @@
   place: Stockholm, Sweden
   tags: [HARD, SOFT, ETPO, CONF]
 
+- name: COMPASS
+  year: 2024
+  date: "July 08 – 11"
+  description: "ACM SIGCAS/SIGCHI Conference on Computing and Sustainable Societies"
+  link: https://compass.acm.org/
+  deadline:
+    - "2024-01-12 23:59"
+  place: New Delhi, India
+  tags: [HARD, SOFT, ETPO, CONF]
+
 
 
 ## 2023 and earlier
