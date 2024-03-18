@@ -10,19 +10,19 @@
   description: "The True Cost of ICT: From Materiality to Techno-Solutionism"
   link: https://ict4s24-tcict.github.io/
   deadline:
-    - "2023-05-24 23:59"
+    - "2024-05-24 23:59"
   place: Stockholm, Sweden
-  tags: [HARD, SOFT, SHOP]
+  tags: [HARD, SOFT, HUCO, ETPO, SHOP]
 
 - name: HotCarbon
   year: 2024
   date: "July 09"
   description: "Workshop on Sustainable Computer Systems"
-  link: https://hotcarbon.org/2023/
+  link: https://hotcarbon.org/
   deadline:
     - "2024-05-08 23:59"
   place: Santa Clara, USA / Online
-  tags: [HARD, SOFT, SHOP]
+  tags: [HARD, SOFT, HUCO, SHOP]
 
 - name: ICT4S Posters and Demos
   year: 2024
@@ -92,7 +92,7 @@
   year: 2023
   date: "July 09"
   description: "Workshop on Sustainable Computer Systems"
-  link: https://hotcarbon.org/2023/
+  link: https://hotcarbon.org/2023
   deadline:
     - "2023-05-08 23:59"
   place: Boston, USA / Online
@@ -242,7 +242,7 @@
   year: 2022
   date: "July 10"
   description: "Workshop on Sustainable Computer Systems Design and Implementation"
-  link: https://hotcarbon.org/2022/
+  link: https://hotcarbon.org/2022
   deadline:
     - "2022-05-18 23:59"
   place: UC San Diego, USA
