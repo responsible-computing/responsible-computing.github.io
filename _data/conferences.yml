@@ -3,6 +3,27 @@
 
 ## 2024
 
+
+- name: TCICT
+  year: 2024
+  date: "June 24"
+  description: "The True Cost of ICT: From Materiality to Techno-Solutionism"
+  link: https://ict4s24-tcict.github.io/
+  deadline:
+    - "2023-05-24 23:59"
+  place: Stockholm, Sweden
+  tags: [HARD, SOFT, SHOP]
+
+- name: HotCarbon
+  year: 2024
+  date: "July 09"
+  description: "Workshop on Sustainable Computer Systems"
+  link: https://hotcarbon.org/2023/
+  deadline:
+    - "2024-05-08 23:59"
+  place: Santa Clara, USA / Online
+  tags: [HARD, SOFT, SHOP]
+
 - name: ICT4S Posters and Demos
   year: 2024
   date: "June 24 – 28"
