@@ -3,6 +3,15 @@
 
 ## 2024
 
+- name: ICICTES
+  year: 2024
+  date: "August 19 – 20"
+  description: "International Conference on ICT for Environment and Sustainability"
+  link: https://waset.org/information-and-communication-technology-for-environment-and-sustainability-conference-in-august-2024-in-london
+  deadline:
+    - "2023-07-31 23:59"
+  place: London, UK
+  tags: [HARD, SOFT, ETPO, CONF]
 
 - name: TCICT
   year: 2024
