@@ -3,16 +3,6 @@
 
 ## 2024
 
-- name: ICICTES
-  year: 2024
-  date: "August 19 – 20"
-  description: "International Conference on ICT for Environment and Sustainability"
-  link: https://waset.org/information-and-communication-technology-for-environment-and-sustainability-conference-in-august-2024-in-london
-  deadline:
-    - "2023-07-31 23:59"
-  place: London, UK
-  tags: [HARD, SOFT, ETPO, CONF]
-
 - name: TCICT
   year: 2024
   date: "June 24"
@@ -216,16 +206,6 @@
     - "2022-10-03 23:59"
   place: New Orleans, USA / Online
   tags: [SOFT, HUCO, ETPO, SHOP]
-
-- name: ICICTES
-  year: 2023
-  date: "April 17 – 18"
-  description: "International Conference on ICT for Environment and Sustainability"
-  link: https://waset.org/ict-for-environment-and-sustainability-conference-in-april-2023-in-boston
-  deadline:
-    - "2022-09-29 23:59"
-  place: Boston, USA
-  tags: [HARD, SOFT, ETPO, CONF]
 
 - name: CHI
   year: 2023
