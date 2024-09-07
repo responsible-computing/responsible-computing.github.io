@@ -327,7 +327,7 @@
   link: https://dl.acm.org/journal/acmjcss
   deadline:
     - "2024-12-31 23:59"
-  place: Online
+  place: Journal
   tags: [HARD, SOFT, ETPO, JOUR]
 
 - name: JRC
@@ -337,6 +337,6 @@
   link: https://dl.acm.org/journal/jrc
   deadline:
     - "2024-12-31 23:59"
-  place: Online
+  place: Journal
   tags: [HARD, SOFT, ETPO, JOUR]
 
