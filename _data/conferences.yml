@@ -3,6 +3,16 @@
 
 ## 2024
 
+- name: LOCO
+  year: 2024
+  date: "December 03"
+  description: "International Workshop on Low Carbon Computing"
+  link: https://www.sicsa.ac.uk/loco/loco2024/
+  deadline:
+    - "2024-09-24 23:59"
+  place: Glasgow, UK; Hybrid
+  tags: [HARD, SOFT, SHOP]
+
 - name: TCICT
   year: 2024
   date: "June 24"
@@ -83,6 +93,15 @@
   place: New Delhi, India
   tags: [HARD, SOFT, ETPO, CONF]
 
+- name: PROPL
+  year: 2024
+  date: "January 20"
+  description: "Programming for the Planet"
+  link: https://popl24.sigplan.org/home/propl-2024
+  deadline:
+    - "2023-11-24 23:59"
+  place: London, UK
+  tags: [SOFT, SHOP]
 
 
 ## 2023 and earlier
