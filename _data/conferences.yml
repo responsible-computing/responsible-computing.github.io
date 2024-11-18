@@ -54,8 +54,61 @@
   place: Toronto, CA
   tags: [HARD, SOFT, HUCO, ETPO, CONF]
 
+- name: ACM e-Energy
+  year: 2025
+  date: "June 17 – 20"
+  description: "ACM International Conference on Future and Sustainable Energy Systems"
+  link: https://energy.acm.org/conferences/eenergy/2025/index.php
+  deadline:
+    - TBA
+  place: Rotterdam, Netherlands
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
+
+- name: WCST
+  year: 2025
+  date: "TBA"
+  description: "World Congress on Sustainable Technologies"
+  link: https://www.wcst.org/
+  deadline:
+    - "2025-05-25 23:59"
+  place: University of Oxford, UK
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
+
+
+
 
 ## 2024
+
+- name: IEEE GreenCom-2024
+  year: 2024
+  date: "Aug 19"
+  description: "IEEE International Conference on Green Computing and
+Communications"
+  link: https://ieee-cybermatics.org/2024/greencom/index.php
+  deadline:
+  place: Copenhagen, Denmark
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
+
+- name: IGSC
+  year: 2024
+  date: "Nov 2"
+  description: "The 15th International Green and Sustainable Computing Conference"
+  link: https://www.igscc.org/
+  deadline:
+      - "2024-08-05 23:59"
+  place: Austin, TX, USA
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
+
+- name: Greens Workshop
+  year: 2024
+  date: "April 29"
+  description: "9th International Workshop on Green and Sustainable Software"
+  link: https://greensworkshop.github.io/
+  deadline:
+      - "2024-11-11 23:59"
+  place: Ottawa (Canada)
+  tags: [HARD, SOFT, HUCO, ETPO, SHOP]
+
 
 - name: LOCO
   year: 2024
@@ -239,7 +292,7 @@
     - "2023-01-01 23:59"
   place: Antwerp, Belgium
   tags: [HARD, SOFT, SHOP]
- 
+
 - name: Solidarity and Disruption
   year: 2022
   date: "November 11"
@@ -309,7 +362,7 @@
     - "2022-01-01 23:59"
   place: San Diego, USA
   tags: [HARD, SHOP]
- 
+
 - name: HotCarbon
   year: 2022
   date: "July 10"
@@ -349,7 +402,7 @@
     - "2022-01-31 23:59"
   place: Online
   tags: [HARD, SOFT, SHOP]
- 
+
 - name: CHI
   year: 2022
   date: "April 30 – May 05"

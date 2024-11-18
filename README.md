@@ -92,3 +92,18 @@ The timezone is specified in [tz format][1]. Unlike abbreviations (e.g. EST), th
 [1]: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 [2]: https://www.timeanddate.com/time/zones/aoe
 
+## Running locally
+
+The site is hosted using [GitHub Pages](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) and build with [jekyll](https://jekyllrb.com/)
+
+If you want to see your changes locally before committing them you can install [jekyll](https://jekyllrb.com/docs/) locally or you can use docker to do everything for you:
+```
+docker run --rm \
+  --volume="$PWD:/srv/jekyll:Z" \
+  --volume="jekyll_bundler_cache:/usr/local/bundle" \
+  --publish 4000:4000 \
+  jekyll/jekyll \
+  sh -c "bundle config set path '/usr/local/bundle' && bundle install && jekyll serve"
+```
+
+This will host the page on http://0.0.0.0:4000/ for you to check. This will also allow live edits, so you don't need to restart the server after edit. It will also create a new volume to cache the bundler gems. You can either remove the line `--volume="jekyll_bundler_cache:/usr/local/bundle" \` or `docker volume rm jekyll_bundler_cache` will also clean everything up.
