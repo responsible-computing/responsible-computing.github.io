@@ -81,8 +81,12 @@ in a pull request</a> or drop me an
                       Deadline:
                       {% endif %}
                     <span class="deadline-time">
-                      {{ deadline }}
-                    </span>
+                      {% if deadline == "TBA" or deadline == nil %}
+                        TBA
+                      {% else %}
+                        {{ deadline }}
+                      {% endif %}
+                        </span>
                     <div class="meta">
                       {{ conf.comment }}
                     </div>
