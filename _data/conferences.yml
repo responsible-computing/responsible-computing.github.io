@@ -70,13 +70,13 @@
   description: "ACM International Conference on Future and Sustainable Energy Systems"
   link: https://energy.acm.org/conferences/eenergy/2025/index.php
   deadline:
-    - TBA
+    - "2025-01-11 23:59"
   place: Rotterdam, Netherlands
   tags: [HARD, SOFT, HUCO, ETPO, CONF]
 
 - name: WCST
   year: 2025
-  date: "TBA"
+  date: "November 03 – 05"
   description: "World Congress on Sustainable Technologies"
   link: https://www.wcst.org/
   deadline:
