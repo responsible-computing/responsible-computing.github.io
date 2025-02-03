@@ -74,17 +74,6 @@
   place: Rotterdam, Netherlands
   tags: [HARD, SOFT, HUCO, ETPO, CONF]
 
-- name: WCST
-  year: 2025
-  date: "November 03 – 05"
-  description: "World Congress on Sustainable Technologies"
-  link: https://www.wcst.org/
-  deadline:
-    - "2025-05-25 23:59"
-  place: University of Oxford, UK
-  tags: [HARD, SOFT, HUCO, ETPO, CONF]
-
-
 
 
 ## 2024
