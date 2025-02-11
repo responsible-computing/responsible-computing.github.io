@@ -3,6 +3,17 @@
 
 ## 2025
 
+- name: SustainableAI
+  year: 2025
+  date: "September 16 – 18"
+  description: "Sustainable AI Conference: Shaping Sustainable AI and its Futures"
+  link: https://www.iwe.uni-bonn.de/en/events/sustainable-ai-conference-2025
+  deadline:
+    - "2025-03-10 23:59"
+  place: Bonn, DE
+  tags: [SOFT, ETPO, CONF]
+
+
 - name: FAccT
   year: 2025
   date: "June 23 – 26"
