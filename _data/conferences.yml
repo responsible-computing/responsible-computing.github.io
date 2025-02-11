@@ -3,6 +3,26 @@
 
 ## 2025
 
+- name: HotCarbon
+  year: 2025
+  date: "July 10 – 11"
+  description: "Workshop on Sustainable Computer Systems"
+  link: https://hotcarbon.org/
+  deadline:
+    - "2025-05-12 23:59"
+  place: Cambridge, MA, USA / Online
+  tags: [HARD, SOFT, HUCO, SHOP]
+
+- name: LIMITS
+  year: 2025
+  date: "June 26 – 27"
+  description: "Workshop on Computing within Limits"
+  link: https://computingwithinlimits.org/
+  deadline:
+    - "2025-04-25 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, SHOP]
+
 - name: SustainableAI
   year: 2025
   date: "September 16 – 18"
@@ -12,7 +32,6 @@
     - "2025-03-10 23:59"
   place: Bonn, DE
   tags: [SOFT, ETPO, CONF]
-
 
 - name: FAccT
   year: 2025
