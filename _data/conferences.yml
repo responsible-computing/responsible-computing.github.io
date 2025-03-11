@@ -3,6 +3,16 @@
 
 ## 2025
 
+- name: SAFER
+  year: 2025
+  date: "August 11 – 14"
+  description: "Workshop on Sustainable security and Awareness For nExt generation infRastructures"
+  link: https://2025.ares-conference.eu/program/safer/
+  deadline:
+    - "2025-04-23 23:59"
+  place: Ghent, BE
+  tags: [HARD, SOFT, HUCO, ETPO, SHOP]
+
 - name: HotCarbon
   year: 2025
   date: "July 10 – 11"
