@@ -2,6 +2,15 @@
 # Workshops and Conferences
 
 ## 2025
+- name: Programming for the Planet
+  year: 2025
+  date: "October 13"
+  description: "PROPL links programming research with climate science to address global crises."
+  link: https://conf.researchr.org/home/icfp-splash-2025/propl-2025
+  deadline:
+    - "2025-07-03 23:59"
+  place: Singapore
+  tags: [HARD, SOFT, HUCO, SHOP]
 
 - name: SAFER
   year: 2025
