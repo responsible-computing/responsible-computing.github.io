@@ -11,7 +11,7 @@
   deadline:
     - "2026-03-24 23:59"
   place: Online
-  tags: [HARD, SOFT, ETPO, SHOP]
+  tags: [HARD, SOFT, HUCO, ETPO, SHOP]
 
 - name: ICT4S (Research Papers)
   year: 2026
@@ -21,7 +21,7 @@
   deadline:
     - "2026-01-25 23:59"
   place: Bern, CH
-  tags: [HARD, SOFT, ETPO, CONF]
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
 
 - name: ICT4S (Journal First)
   year: 2026
@@ -31,7 +31,7 @@
   deadline:
     - "2026-03-13 23:59"
   place: Bern, CH
-  tags: [HARD, SOFT, ETPO, CONF]
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
 
 - name: ICT4S (Posters and Short Papers)
   year: 2026
@@ -41,7 +41,7 @@
   deadline:
     - "2026-03-16 23:59"
   place: Bern, CH
-  tags: [HARD, SOFT, ETPO, CONF]
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
 
 - name: ICT4S (Doctorl Symposium)
   year: 2026
@@ -51,7 +51,7 @@
   deadline:
     - "2026-03-19 23:59"
   place: Bern, CH
-  tags: [HARD, SOFT, ETPO, CONF]
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
 
 
 ## 2025
@@ -537,7 +537,7 @@ Communications"
   deadline:
     - "2026-12-31 23:59"
   place: Journal
-  tags: [HARD, SOFT, ETPO, JOUR]
+  tags: [HARD, SOFT, HUCO, ETPO, JOUR]
 
 - name: JRC
   year: 2026
@@ -547,7 +547,7 @@ Communications"
   deadline:
     - "2026-12-31 23:59"
   place: Journal
-  tags: [HARD, SOFT, ETPO, JOUR]
+  tags: [HARD, SOFT, HUCO, ETPO, JOUR]
 
 
 ## 2026
@@ -560,6 +560,6 @@ Communications"
   deadline:
     - "2026-02-15 23:59"
   place: Journal
-  tags: [ETPO, JOUR]
+  tags: [HUCO, ETPO, JOUR]
 
 
