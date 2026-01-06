@@ -1,7 +1,61 @@
 ---
 # Workshops and Conferences
 
+## 2026
+
+- name: LIMITS
+  year: 2026
+  date: "June 23 – 25"
+  description: "Workshop on Computing within Limits"
+  link: https://computingwithinlimits.org/
+  deadline:
+    - "2026-03-24 23:59"
+  place: Online
+  tags: [HARD, SOFT, ETPO, SHOP]
+
+- name: ICT4S (Research Papers)
+  year: 2026
+  date: "June 08 – 12"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2026
+  deadline:
+    - "2026-01-25 23:59"
+  place: Bern, CH
+  tags: [HARD, SOFT, ETPO, CONF]
+
+- name: ICT4S (Journal First)
+  year: 2026
+  date: "June 08 – 12"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2026
+  deadline:
+    - "2026-03-13 23:59"
+  place: Bern, CH
+  tags: [HARD, SOFT, ETPO, CONF]
+
+- name: ICT4S (Posters and Short Papers)
+  year: 2026
+  date: "June 08 – 12"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2026
+  deadline:
+    - "2026-03-16 23:59"
+  place: Bern, CH
+  tags: [HARD, SOFT, ETPO, CONF]
+
+- name: ICT4S (Doctorl Symposium)
+  year: 2026
+  date: "June 08 – 12"
+  description: "International Conference on ICT for Sustainability"
+  link: https://conf.researchr.org/home/ict4s-2026
+  deadline:
+    - "2026-03-19 23:59"
+  place: Bern, CH
+  tags: [HARD, SOFT, ETPO, CONF]
+
+
 ## 2025
+
 - name: Programming for the Planet
   year: 2025
   date: "October 13"
@@ -476,22 +530,36 @@ Communications"
 # Journals and Special Issues
 
 - name: JCSS
-  year: 2024
-  date: 2024
+  year: 2026
+  date: 2026
   description: "ACM Journal on Computing and Sustainable Societies"
   link: https://dl.acm.org/journal/acmjcss
   deadline:
-    - "2025-12-31 23:59"
+    - "2026-12-31 23:59"
   place: Journal
   tags: [HARD, SOFT, ETPO, JOUR]
 
 - name: JRC
-  year: 2024
-  date: 2024
+  year: 2026
+  date: 2026
   description: "ACM Journal on Responsible Computing"
   link: https://dl.acm.org/journal/jrc
   deadline:
-    - "2025-12-31 23:59"
+    - "2026-12-31 23:59"
   place: Journal
   tags: [HARD, SOFT, ETPO, JOUR]
+
+
+## 2026
+
+- name: IPO
+  year: 2026
+  date: 2026
+  description: "Special Issue: AI in environmental governance – possibilities and risks (Information Polity, Sage)"
+  link: https://journals.sagepub.com/page/ipo/cfp-ai-environmental-governance
+  deadline:
+    - "2026-02-15 23:59"
+  place: Journal
+  tags: [ETPO, JOUR]
+
 
