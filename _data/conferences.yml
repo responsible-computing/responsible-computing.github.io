@@ -3,6 +3,36 @@
 
 ## 2026
 
+- name: GreenNet
+  year: 2026
+  date: "July 3"
+  description: "International Workshop on Green and Sustainable Networking (with NetSoft 2026)"
+  link: https://sites.google.com/view/greennet2026
+  deadline:
+    - "2026-03-30 23:59"
+  place: Berlin, DE
+  tags: [HARD, SOFT, HUCO, ETPO, SHOP]
+
+- name: ESSP
+  year: 2026
+  date: "June 26"
+  description: "International Workshop on Energy Efficiency with Sustainable Performance: Techniques, Tools, and Best Practices"
+  link: https://ayeshaafzal91.github.io/eesp/
+  deadline:
+    - "2026-03-01 23:59"
+  place: Hamburg, DE
+  tags: [HARD, SOFT, SHOP]
+
+- name: COMPASS
+  year: 2026
+  date: "July 27 – 31"
+  description: "SIGCAS & SIGCHI Conference on Computing and Sustainable Societies"
+  link: https://compass26.hotcrp.com/
+  deadline:
+    - "2026-03-07 23:59"
+  place: Online
+  tags: [HARD, SOFT, HUCO, ETPO, CONF]
+
 - name: LIMITS
   year: 2026
   date: "June 23 – 25"
