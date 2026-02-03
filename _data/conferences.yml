@@ -3,6 +3,16 @@
 
 ## 2026
 
+- name: SC4RC
+  year: 2026
+  date: "May 4 – 8"
+  description: "Sustainability Conference for Responsible Research Computing"
+  link: https://www.sc4rc.org/
+  deadline:
+    - "2026-02-27 23:59"
+  place: Geneva, CH
+  tags: [HARD, SOFT, ETPO, SHOP]
+
 - name: GreenNet
   year: 2026
   date: "July 3"
