@@ -3,6 +3,16 @@
 
 ## 2026
 
+- name: GreenSys
+  year: 2026
+  date: "April 27"
+  description: "International Workshop on Systems and Methods for Sustainable Large-Scale AI"
+  link: https://greensys-org.github.io/workshop/
+  deadline:
+    - "2026-02-24 23:59"
+  place: Edinburgh, Scotland
+  tags: [SOFT, SHOP]
+  
 - name: SC4RC
   year: 2026
   date: "May 4 – 8"
