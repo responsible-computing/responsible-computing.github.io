@@ -3,6 +3,26 @@
 
 ## 2026
 
+- name: UndoneCS
+  year: 2026
+  date: "March 23 – 25"
+  description: "Conferences on Undone Science in Computer Science"
+  link: https://www.undonecs.org/
+  deadline:
+    - "2025-10-16 23:59"
+  place: Luxembourg, LU
+  tags: [HUCO, ETPO]
+
+- name: Policy&Internet 
+  year: 2026
+  date: "September 30 – October 2"
+  description: "Policy & Internet Conference 2026"
+  link: https://internet-policy-meco.sydney.edu.au/2025/10/policy-internet-conference-2026/
+  deadline:
+    - "2026-02-14 23:59"
+  place: Hybrid / Sydney, AU
+  tags: [HUCO, ETPO]
+
 - name: GreenSys
   year: 2026
   date: "April 27"
@@ -10,7 +30,7 @@
   link: https://greensys-org.github.io/workshop/
   deadline:
     - "2026-02-24 23:59"
-  place: Edinburgh, Scotland
+  place: Edinburgh, UK
   tags: [SOFT, SHOP]
   
 - name: SC4RC
