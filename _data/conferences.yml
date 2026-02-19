@@ -3,6 +3,16 @@
 
 ## 2026
 
+- name: ICT4SEDU
+  year: 2026
+  date: "June 12"
+  description: "International Workshop on ICT4S Education (with ICT4S 2026"
+  link: https://ict4sedu.wordpress.com/
+  deadline:
+    - "2026-04-05 23:59"
+  place: Bern, CH
+  tags: [HUCO, ETPO, SHOP]
+
 - name: SCW
   year: 2026
   date: "May 19 – 21"
