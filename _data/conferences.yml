@@ -642,6 +642,19 @@ Communications"
 
 ## 2026
 
+- name: JETC
+  year: 2026
+  date: 2026
+  description: "Special Issue: VLSI-SOC for a Sustainable World (J. Emerging Technologies in Computing Systems, ACM)"
+  link: https://dl.acm.org/journal/jetc/calls-for-papers
+  deadline:
+    - "2026-03-31 23:59"
+  place: Journal
+  tags: [HARD, JOUR]
+
+
+
+
 - name: IPO
   year: 2026
   date: 2026
