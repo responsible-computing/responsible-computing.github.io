@@ -643,7 +643,7 @@ Communications"
 
 ## 2026
 
-- name: JETC
+- name: JETC VLSI-SOC
   year: 2026
   date: 2026
   description: "Special Issue: VLSI-SOC for a Sustainable World (J. Emerging Technologies in Computing Systems, ACM)"
@@ -653,7 +653,7 @@ Communications"
   place: Journal
   tags: [HARD, JOUR]
 
-- name: JRC
+- name: JRC LIMITS
   year: 2026
   date: 2026
   description: "Special Issue: Computing within Planetary Boundaries (J. Responsible Computing, ACM)"
@@ -663,7 +663,7 @@ Communications"
   place: Journal
   tags: [HARD, SOFT, HUCO, ETPO, JOUR]
 
-- name: IPO
+- name: IPO AI Env Gov
   year: 2026
   date: 2026
   description: "Special Issue: AI in environmental governance – possibilities and risks (Information Polity, Sage)"
