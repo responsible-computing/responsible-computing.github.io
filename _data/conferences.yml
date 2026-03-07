@@ -653,6 +653,16 @@ Communications"
   place: Journal
   tags: [HARD, JOUR]
 
+- name: JRC
+  year: 2026
+  date: 2026
+  description: "Special Issue: Computing within Planetary Boundaries (J. Responsible Computing, ACM)"
+  link: https://dl.acm.org/journal/jrc/calls-for-papers
+  deadline:
+    - "2026-05-31 23:59"
+  place: Journal
+  tags: [HARD, SOFT, HUCO, ETPO, JOUR]
+
 - name: IPO
   year: 2026
   date: 2026
