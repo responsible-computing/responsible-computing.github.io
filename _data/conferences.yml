@@ -3,6 +3,28 @@
 
 ## 2026
 
+- name: HotCarbon
+  year: 2026
+  date: "July 16 – 17"
+  description: "HotCarbon Workshop on Sustainable Computer Systems (with OSDI 2026)"
+  link: https://hotcarbon.org/
+  deadline:
+    - "2026-05-11 23:59"
+    - "2026-05-18 23:59"
+  place: Seattle, WA, USA
+  tags: [HARD, SOFT, SHOP]
+
+- name: SHIFT
+  year: 2026
+  date: "October 20 – 23"
+  description: "Workshop SHIFT: Shaping Human-centered Interaction for Future Technologies (with MetroXRAINE 2026)"
+  link: https://metroxraine.org/shift
+  deadline:
+    - "2026-04-17 23:59"
+    - "2026-05-15 23:59"
+  place: Chemnitz, DE
+  tags: [HUCO, ETPO, SHOP]
+
 - name: ICT4SEDU
   year: 2026
   date: "June 12"
